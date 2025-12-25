@@ -45,13 +45,7 @@ Building scalable web applications with <b>MongoDB & Express</b>
   <img src="https://skillicons.dev/icons?i=react,angular,nodejs,nestjs,express,mongodb,typescript,javascript,html,css&perline=6" />
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SKfraz04&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKfraz04&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -60,12 +54,7 @@ Building scalable web applications with <b>MongoDB & Express</b>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SKfraz04&theme=tokyonight" />
 </p>
 
----
 
-### 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://github.com/SKfraz04/SKfraz04/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
