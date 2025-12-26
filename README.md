@@ -51,7 +51,7 @@ Building scalable web applications with <b>MongoDB & Express</b>
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SKfraz04&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajneesh4770&theme=tokyonight" />
 </p>
 
 
